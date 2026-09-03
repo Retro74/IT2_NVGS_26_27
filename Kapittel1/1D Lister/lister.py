@@ -70,3 +70,31 @@ print(sorterte_priser)
 
 unik_prisliste = sorted(set(sorterte_priser))
 print(unik_prisliste) 
+
+
+from statistics import mean
+uketemperaturer = input("Skriv inn ukens temperaturer (kommaseparert): ")
+uketemperaturer = uketemperaturer.split(",")
+print(uketemperaturer)
+
+#Enten:
+#for i in range(len(uketemperaturer)):
+#    uketemperaturer[i] = int(uketemperaturer[i]) 
+
+#Eller:
+uketemperaturer = [int(temperatur) for temperatur in uketemperaturer]
+print(f"Gjennomsnittstemepraturen er: {mean(uketemperaturer)}")
+
+
+
+
+
+bilmerker = [
+    'Audi', 
+    'Volvo', 
+    'VW', 
+    'Tesla', 
+    'Toyota', 
+    'Mini', 
+    'BMW'
+    ]
