@@ -20,17 +20,22 @@ def bygg_linje(col_widths, venstre, horisontal, kryss, hoyre):
     return linje + '\u000A'
 
 
-def create_table(table_list, caption=False):
+def create_table(table_list, caption=False, flip=False):
     """Lager en pen tekst-tabell fra en todimensjonal liste.
 
     Parametre:
         table_list: liste av rader, hver rad en liste av celleverdier.
                     Alle rader må ha samme lengde.
-        caption:    hvis True, tegnes den første raden som en overskrift
-                    med doble linjer.
+        caption:    hvis True, tegnes den første raden (etter evt. flip)
+                    som en caption med doble linjer.
+        flip:       hvis True, transponeres tabellen slik at kolonner
+                    blir rader og rader blir kolonner.
     """
     if not table_list or not all(len(row) == len(table_list[0]) for row in table_list):
         raise ValueError("tableList kan ikke være tom, og alle rader må ha samme lengde")
+
+    if flip:
+        table_list = [list(rad) for rad in zip(*table_list)]
 
     # Tegn for vanlige linjer
     left_upper_corner = '\u250C'
@@ -45,7 +50,7 @@ def create_table(table_list, caption=False):
     right_lower_corner = '\u2518'
     lower_t_cross = '\u2534'
 
-    # Tegn for overskrift (dobbel linje), brukes kun hvis caption=True
+    # Tegn for caption (dobbel linje), brukes kun hvis caption=True
     left_upper_corner_caption = '\u2552'
     right_upper_corner_caption = '\u2555'
     horizontal_line_caption = '\u2550'
@@ -117,7 +122,7 @@ if __name__ == "__main__":
         [6.1, 12.0, 7.2, 4.9]
     ]
 
-    print(create_table(tabell, True))
+    print(create_table(tabell, caption=True))
     #     ╒═════╤═════════╤══════════╤════════╕
     #     │Norge│Sverige  │Danmark   │Finland │
     #     ╞═════╪═════════╪══════════╪════════╡
@@ -127,3 +132,14 @@ if __name__ == "__main__":
     #     ├─────┼─────────┼──────────┼────────┤
     #     │  6.1│     12.0│       7.2│     4.9│
     #     └─────┴─────────┴──────────┴────────┘
+
+    print(create_table(tabell, flip=True))
+    #     ┌───────┬─────────┬───┬────┐
+    #     │Norge  │Oslo     │NOK│ 6.1│
+    #     ├───────┼─────────┼───┼────┤
+    #     │Sverige│Stockholm│SEK│  12│
+    #     ├───────┼─────────┼───┼────┤
+    #     │Danmark│København│DKK│ 7.2│
+    #     ├───────┼─────────┼───┼────┤
+    #     │Finland│Helsinki │EUR│ 4.9│
+    #     └───────┴─────────┴───┴────┘
