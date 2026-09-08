@@ -72,29 +72,66 @@ unik_prisliste = sorted(set(sorterte_priser))
 print(unik_prisliste) 
 
 
-from statistics import mean
-uketemperaturer = input("Skriv inn ukens temperaturer (kommaseparert): ")
-uketemperaturer = uketemperaturer.split(",")
-print(uketemperaturer)
+#from statistics import mean
+#uketemperaturer = input("Skriv inn ukens temperaturer (kommaseparert): ")
+#uketemperaturer = uketemperaturer.split(",")
+#print(uketemperaturer)
 
 #Enten:
 #for i in range(len(uketemperaturer)):
 #    uketemperaturer[i] = int(uketemperaturer[i]) 
 
 #Eller:
-uketemperaturer = [int(temperatur) for temperatur in uketemperaturer]
-print(f"Gjennomsnittstemepraturen er: {mean(uketemperaturer)}")
+#uketemperaturer = [int(temperatur) for temperatur in uketemperaturer]
+#print(f"Gjennomsnittstemepraturen er: {mean(uketemperaturer)}")
+
+
+#bil1 = ["Toyota"]
+#bil2 = bil1.copy()
+
+#bil1[0] = "Volvo"
+#print(bil1)
+#print(bil2)
 
 
 
+#bilmerker = [
+#    ['Audi',"Q4", "TT", "i4"], 
+#    ['Volvo', "XC60","V70", "240"] , 
+#    ['VW', "ID-buzz", "iD4", "Boble"], 
+#    ['Tesla', "Model X", "Model Y", "Model 3"], 
+#    ['Toyota', "Yaris", "Corolla", "Carina"] 
+#    ]
+#from copy import deepcopy
+#
+#bilmerke_kopi = deepcopy(bilmerker)
+#bilmerke_kopi[0][1] = "A4"
+#
+#bilmerker[0].append("A3")
+#for merke in bilmerker:
+#    print("Merke: ", end="")
+#    for modell in merke:
+#        print(modell, end= " ")
+#    print()
+#
+#
 
+#modeller = ["Model 3", "Model Y", "Golf", "Model X", "Passat"]
+#for modell in modeller[::-1]:
+#   if modell.startswith("Model"):
+#        modeller.remove(modell)
 
-bilmerker = [
-    'Audi', 
-    'Volvo', 
-    'VW', 
-    'Tesla', 
-    'Toyota', 
-    'Mini', 
-    'BMW'
+#print(modeller)
+
+bildatalbase = [
+    ['Audi',"Q4", 3], 
+    ['Volvo', "XC60",5] , 
+    ['Tesla', "Model X", 5], 
+    ['Toyota', "Yaris", 9], 
+    ['VW', "ID-buzz", 2], 
     ]
+
+bildatalbase.sort(key=lambda bildatalbase: bildatalbase[2], reverse=True)
+for bilmerke in bildatalbase:
+    print(bilmerke)
+
