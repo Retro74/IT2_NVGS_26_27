@@ -9,4 +9,6 @@ print(f"Roger er {52} år")
 pi = 3.14
 radius = 4.7
 areal = pi * radius**2
+
 print(f"Sirkelens areal er {areal:.2f}")
+

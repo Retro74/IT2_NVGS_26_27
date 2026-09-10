@@ -36,7 +36,7 @@ innbygger_4 = 25_000
 #print("Han sa: Det \"fint\" vær")
 #print("Linje 1: Hallo \nLinje 2: Hei ")
 
-##Kontroll på enden av itskriften
+##Kontroll på enden av utskriften
 #print("Roger", end=" ")
 #print("Mikalsen")
 
