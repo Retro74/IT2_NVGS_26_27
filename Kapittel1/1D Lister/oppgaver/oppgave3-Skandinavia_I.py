@@ -1,4 +1,4 @@
-skandinavia_land =["Norge", "Sverige", "Danamerk"]
+skandinavia_land =["Norge", "Sverige", "Danmark"]
 skandinavia_hovedsteder =["Oslo", "Stockholm", "Kjøbenhavn"]
 skandinavia_befolkning = [5.3, 10.2, 5.8]
 skandinavia_areal = [324000, 450000, 43000]

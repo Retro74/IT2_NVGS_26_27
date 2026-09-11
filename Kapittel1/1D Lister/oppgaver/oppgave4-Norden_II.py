@@ -1,4 +1,4 @@
-norden_land =["Norge", "Sverige", "Danamerk"]
+norden_land =["Norge", "Sverige", "Danmark"]
 norden_hovedsteder =["Oslo", "Stockholm", "Kjøbenhavn"]
 norden_befolkning = [5.3, 10.2, 5.8]
 norden_areal = [324000, 450000, 43000]
