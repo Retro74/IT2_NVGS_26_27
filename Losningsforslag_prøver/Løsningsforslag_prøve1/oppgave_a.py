@@ -1,0 +1,6 @@
+merke = input("Merke: ")
+modell = input("Modell: ")
+aarsmodell = input("Årsmodell: ")
+nypris = input("Nypris: ")
+naapris= input("Nåpris: ")
+regnr = input("Registreingsummer: ")
