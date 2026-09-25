@@ -40,6 +40,7 @@ kodontabell = {
 }
 
 dna_sekvens = "GCCCTCCAGGACAGGCTGCATCAGAAGAGGCCATCAAGCAGGTCTGTTCCAAGGGCCTTTGCGTCAGGTGGGCTCAGGATTCCAGGGTGGCTGGACAGC"
+
 #Mutasjon 1: Endret en bokstav
 nybokstav = random.choice(["A", "C", "G", "T"])
 endrer_index = random.randint(0,int(len(dna_sekvens)/2)) #Endrer en i 1. halvdel
@@ -47,6 +48,7 @@ while nybokstav == dna_sekvens[endrer_index]:
     nybokstav = random.choice(["A", "C", "G", "T"])
 print(f"Muterer ved å endre: {endrer_index+1} til {nybokstav}")
 mutasjon1_dna_sekvens = dna_sekvens[0:endrer_index]+nybokstav + dna_sekvens[endrer_index+1::]
+
 #Mutasjon 2: Fjernet en bokstav
 print(f"Muterer ved å fjerne: {endrer_index+1} og legger til på slutten {nybokstav}")
 mutasjon2_dna_sekvens = dna_sekvens[0:endrer_index]+dna_sekvens[endrer_index+1::]+nybokstav
@@ -64,7 +66,7 @@ print(f"a)  DNA-sekvens:  {dna_sekvens}\n"
       f"Mutert RNA2 sekv: {mutasjon2_rna_sekvens}")
 
 antall_aminosyrer = 0
-print()
+print() #Skiver ut en tabell for Aminosyrene for Orginal DNA, og de to muterte
 print(f'{"-"*15}+{"-"*15}+{"-"*15}+{"-"*15}')
 print(f"{'Triplet':15}|{'Orginal RNA':15}|{'Mutasjon 1':15}|{'Mutasjon 2':15}")
 print(f'{"-"*15}+{"-"*15}+{"-"*15}+{"-"*15}')
@@ -83,5 +85,6 @@ print(f'{"-"*15}+{"-"*15}+{"-"*15}+{"-"*15}')
 
 print(antall_aminosyrer)
 
-#En bytte av bokstav vil bare gi en liten endring for akkurat denne aminosyren,
-#Fjerning eller tillegg av bokstav vil endre hele sekvensen utover.
+# Konklusjon:
+# Ett bytte av bokstav (base) vil bare gi en liten endring for akkurat denne aminosyren,
+# Fjerning eller tillegg av bokstav vil endre hele sekvensen utover.
