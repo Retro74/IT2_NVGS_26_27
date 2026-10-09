@@ -38,7 +38,7 @@ def vindikon(vindretning):
         return vindikoner["NV"]
 
 
-#Henter stedsnavn ut fra latitude og londetude
+#Henter stedsnavn ut fra latitude og longdetude
 url = f"https://nominatim.openstreetmap.org/reverse?lat={vaerdata['lat']}&lon={vaerdata['lon']}&format=jsonv2"
 response = requests.get(url,headers={"User-Agent": "MittProgram"})
 data = response.json()
