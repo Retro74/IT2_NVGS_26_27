@@ -113,3 +113,20 @@ enhetspris= 399
 pris = pris_pr_kvm(enhetspris, lengde, bredde)
 print(f"Pris: {pris:.2f} kroner.")
 
+
+##  Nøkkelordet:  global
+
+def sendMegEnListe(minliste):
+    tmp_minliste = minliste.copy()
+    print("Innafor 1", minliste)
+    #enliste[2]="HAHA"
+    #global enliste
+    #enliste.pop()
+    minliste[0]="BABA"
+    print("Innafor 2", minliste)
+
+enliste=["a","b","c"]
+print("Uttafor 1", enliste)
+sendMegEnListe(enliste)
+#sendMegEnListe(enliste[:])
+print("Uttafor 2", enliste)
