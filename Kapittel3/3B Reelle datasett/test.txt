@@ -1,0 +1,4 @@
+Hei
+Dette er en tekstfil
+med diverse innhold
+på norsk
