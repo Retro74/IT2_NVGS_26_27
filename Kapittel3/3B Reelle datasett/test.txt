@@ -1,4 +1,4 @@
-Hei
+Hei 
 Dette er en tekstfil
-med diverse innhold
-på norsk
+Med masse rart i.
+Også norske bokstaver ÆøÅ.
