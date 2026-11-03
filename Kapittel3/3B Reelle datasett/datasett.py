@@ -37,21 +37,21 @@ for i in range(1, len(fileData)):
 tmp_karaktermatrise = []
 for i in range(1, len(fileData)):
     tmp_karaktermatrise.append(fileData[i][-1])
-print(f"Gjennomsnittskarakteren til alle elevene er: {sum(tmp_karaktermatrise)/len(tmp_karaktermatrise)}")
+print(f"Gjennomsnittskarakteren til alle elevene er: {round(sum(tmp_karaktermatrise)/len(tmp_karaktermatrise),1)}")
 
 ##b) Finne gjennomsnittskarakteren til alle elevene med IT2
 tmp_karaktermatrise = []
 for i in range(1, len(fileData)):
     if fileData[i][1]=="IT2":
         tmp_karaktermatrise.append(fileData[i][-1])
-print(f"Gjennomsnittskarakteren til elevene med IT2 er: {sum(tmp_karaktermatrise)/len(tmp_karaktermatrise)}")
+print(f"Gjennomsnittskarakteren til elevene med IT2 er: {round(sum(tmp_karaktermatrise)/len(tmp_karaktermatrise),1)}")
 
 ##c) Finne gjennomsnittskarakteren til alle elevene med IT2 i 2024
 tmp_karaktermatrise = []
 for i in range(1, len(fileData)):
     if fileData[i][1]=="IT2" and fileData[i][2]==2024 :
         tmp_karaktermatrise.append(fileData[i][-1])
-print(f"Gjennomsnittskarakteren til elevene med IT2 i 2024 er: {sum(tmp_karaktermatrise)/len(tmp_karaktermatrise)}")
+print(f"Gjennomsnittskarakteren til elevene med IT2 i 2024 er: {round(sum(tmp_karaktermatrise)/len(tmp_karaktermatrise),1)}")
 
 ##c-2) Finn høyeste og laveste fraværsprosent
 laveste = fileData[1][3]
@@ -95,13 +95,17 @@ for karakter, fraversprosenter in karakter_fravaer.items():
     if len(fraversprosenter)>0:
         print(f"   {karakter}     "
               f"|     {round(sum(fraversprosenter)/len(fraversprosenter),1)}%")
+
+
 ##g) Lag en frekvensntabell for hvor mange som fikkk de ulike karakterene 1-6
 karakter_frekvens = {karakter:0 for karakter in range(1,7)}
 for i in range(1, len(fileData)):
     karakter_frekvens[fileData[i][4]]+=1
 #print(karakter_frekvens)
-##h) Lag et enkelt tekstbasert diagram for resultene i g)
 
+
+##h) Lag et enkelt tekstbasert diagram for resultene i g)
 for karakter, frekvens in karakter_frekvens.items():
     print(f"{karakter}: {'#'*frekvens}")
 
+#print(fileData)
