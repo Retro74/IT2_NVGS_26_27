@@ -1,0 +1,2402 @@
+[
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2023,
+    "Nypris": 289900,
+    "Nåpris": 245000,
+    "Regnr": "AB12345"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2019,
+    "Nypris": 650000,
+    "Nåpris": 380000,
+    "Regnr": "AD67890"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2022,
+    "Nypris": 720000,
+    "Nåpris": 490000,
+    "Regnr": "CB62290"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2021,
+    "Nypris": 470000,
+    "Nåpris": 300000,
+    "Regnr": "EF13529"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2020,
+    "Nypris": 670000,
+    "Nåpris": 420000,
+    "Regnr": "EF14531"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2024,
+    "Nypris": 550000,
+    "Nåpris": 310000,
+    "Regnr": "EF16589"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2015,
+    "Nypris": 320000,
+    "Nåpris": 95000,
+    "Regnr": "GH24680"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2025,
+    "Nypris": 520000,
+    "Nåpris": 425000,
+    "Regnr": "EH14698"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2021,
+    "Nypris": 520000,
+    "Nåpris": 85000,
+    "Regnr": "BG27394"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Tucson",
+    "Årsmodell": 2018,
+    "Nypris": 475000,
+    "Nåpris": 230000,
+    "Regnr": "DC21568"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2023,
+    "Nypris": 575000,
+    "Nåpris": 410000,
+    "Regnr": "GB61700"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2020,
+    "Nypris": 705000,
+    "Nåpris": 450000,
+    "Regnr": "FA85834"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2018,
+    "Nypris": 395000,
+    "Nåpris": 205000,
+    "Regnr": "EE73169"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Focus",
+    "Årsmodell": 2017,
+    "Nypris": 300000,
+    "Nåpris": 160000,
+    "Regnr": "EE29999"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2015,
+    "Nypris": 270000,
+    "Nåpris": 105000,
+    "Regnr": "AH70556"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2022,
+    "Nypris": 445000,
+    "Nåpris": 295000,
+    "Regnr": "FB76632"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2022,
+    "Nypris": 480000,
+    "Nåpris": 365000,
+    "Regnr": "FF71667"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2018,
+    "Nypris": 425000,
+    "Nåpris": 200000,
+    "Regnr": "GD42944"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2020,
+    "Nypris": 445000,
+    "Nåpris": 280000,
+    "Regnr": "AA95772"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2017,
+    "Nypris": 845000,
+    "Nåpris": 450000,
+    "Regnr": "GA51988"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2018,
+    "Nypris": 450000,
+    "Nåpris": 240000,
+    "Regnr": "CD10326"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2022,
+    "Nypris": 890000,
+    "Nåpris": 590000,
+    "Regnr": "DH89226"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2019,
+    "Nypris": 465000,
+    "Nåpris": 260000,
+    "Regnr": "FG48395"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Fiesta",
+    "Årsmodell": 2019,
+    "Nypris": 240000,
+    "Nåpris": 140000,
+    "Regnr": "GD14588"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2018,
+    "Nypris": 295000,
+    "Nåpris": 160000,
+    "Regnr": "EF71064"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2021,
+    "Nypris": 720000,
+    "Nåpris": 490000,
+    "Regnr": "BD71378"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2023,
+    "Nypris": 435000,
+    "Nåpris": 335000,
+    "Regnr": "FE89756"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2023,
+    "Nypris": 425000,
+    "Nåpris": 290000,
+    "Regnr": "HH32964"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Qashqai",
+    "Årsmodell": 2024,
+    "Nypris": 440000,
+    "Nåpris": 380000,
+    "Regnr": "GF69257"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2021,
+    "Nypris": 935000,
+    "Nåpris": 675000,
+    "Regnr": "FF54558"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2021,
+    "Nypris": 435000,
+    "Nåpris": 275000,
+    "Regnr": "AC94110"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2019,
+    "Nypris": 595000,
+    "Nåpris": 370000,
+    "Regnr": "CA99871"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2015,
+    "Nypris": 610000,
+    "Nåpris": 260000,
+    "Regnr": "GH84479"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2016,
+    "Nypris": 405000,
+    "Nåpris": 180000,
+    "Regnr": "DF87020"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "A4",
+    "Årsmodell": 2022,
+    "Nypris": 555000,
+    "Nåpris": 365000,
+    "Regnr": "BE19902"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2012,
+    "Nypris": 710000,
+    "Nåpris": 250000,
+    "Regnr": "BF85223"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2024,
+    "Nypris": 525000,
+    "Nåpris": 460000,
+    "Regnr": "DE68378"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2021,
+    "Nypris": 300000,
+    "Nåpris": 195000,
+    "Regnr": "AA36103"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2022,
+    "Nypris": 705000,
+    "Nåpris": 540000,
+    "Regnr": "HC42735"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2023,
+    "Nypris": 505000,
+    "Nåpris": 370000,
+    "Regnr": "BD28986"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2018,
+    "Nypris": 590000,
+    "Nåpris": 320000,
+    "Regnr": "AG72026"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2019,
+    "Nypris": 195000,
+    "Nåpris": 115000,
+    "Regnr": "BA18607"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2016,
+    "Nypris": 385000,
+    "Nåpris": 195000,
+    "Regnr": "DB44877"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2020,
+    "Nypris": 315000,
+    "Nåpris": 205000,
+    "Regnr": "EE20288"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "3-serie",
+    "Årsmodell": 2023,
+    "Nypris": 525000,
+    "Nåpris": 395000,
+    "Regnr": "DF61317"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2020,
+    "Nypris": 350000,
+    "Nåpris": 205000,
+    "Regnr": "EH66388"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2025,
+    "Nypris": 270000,
+    "Nåpris": 215000,
+    "Regnr": "HG23997"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Qashqai",
+    "Årsmodell": 2021,
+    "Nypris": 365000,
+    "Nåpris": 245000,
+    "Regnr": "DD26774"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2024,
+    "Nypris": 300000,
+    "Nåpris": 240000,
+    "Regnr": "EA55503"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2018,
+    "Nypris": 605000,
+    "Nåpris": 325000,
+    "Regnr": "CB39915"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2020,
+    "Nypris": 520000,
+    "Nåpris": 285000,
+    "Regnr": "EH73132"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2023,
+    "Nypris": 490000,
+    "Nåpris": 365000,
+    "Regnr": "EG58893"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2023,
+    "Nypris": 590000,
+    "Nåpris": 415000,
+    "Regnr": "DB83492"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2014,
+    "Nypris": 540000,
+    "Nåpris": 210000,
+    "Regnr": "EF50492"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2017,
+    "Nypris": 570000,
+    "Nåpris": 275000,
+    "Regnr": "AA98571"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2020,
+    "Nypris": 205000,
+    "Nåpris": 125000,
+    "Regnr": "FG84573"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2014,
+    "Nypris": 515000,
+    "Nåpris": 185000,
+    "Regnr": "AD88221"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2024,
+    "Nypris": 330000,
+    "Nåpris": 245000,
+    "Regnr": "BF34039"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2025,
+    "Nypris": 545000,
+    "Nåpris": 425000,
+    "Regnr": "DF25151"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2022,
+    "Nypris": 470000,
+    "Nåpris": 295000,
+    "Regnr": "AA91517"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2019,
+    "Nypris": 545000,
+    "Nåpris": 290000,
+    "Regnr": "HG55508"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2019,
+    "Nypris": 515000,
+    "Nåpris": 320000,
+    "Regnr": "GF83670"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Qashqai",
+    "Årsmodell": 2016,
+    "Nypris": 445000,
+    "Nåpris": 210000,
+    "Regnr": "BF60880"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2018,
+    "Nypris": 545000,
+    "Nåpris": 270000,
+    "Regnr": "DE69410"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2016,
+    "Nypris": 200000,
+    "Nåpris": 100000,
+    "Regnr": "BE21040"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2023,
+    "Nypris": 425000,
+    "Nåpris": 350000,
+    "Regnr": "DG66541"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2021,
+    "Nypris": 655000,
+    "Nåpris": 425000,
+    "Regnr": "EF64537"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2015,
+    "Nypris": 520000,
+    "Nåpris": 210000,
+    "Regnr": "AG55323"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2015,
+    "Nypris": 430000,
+    "Nåpris": 185000,
+    "Regnr": "HG78125"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2025,
+    "Nypris": 300000,
+    "Nåpris": 245000,
+    "Regnr": "GA92456"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "Q5",
+    "Årsmodell": 2024,
+    "Nypris": 625000,
+    "Nåpris": 485000,
+    "Regnr": "FA37267"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2025,
+    "Nypris": 345000,
+    "Nåpris": 325000,
+    "Regnr": "BF45182"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Octavia",
+    "Årsmodell": 2019,
+    "Nypris": 350000,
+    "Nåpris": 185000,
+    "Regnr": "DE62137"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2023,
+    "Nypris": 450000,
+    "Nåpris": 310000,
+    "Regnr": "CH56599"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2024,
+    "Nypris": 575000,
+    "Nåpris": 500000,
+    "Regnr": "AB17662"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2024,
+    "Nypris": 275000,
+    "Nåpris": 225000,
+    "Regnr": "FE93513"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2012,
+    "Nypris": 195000,
+    "Nåpris": 70000,
+    "Regnr": "GE78599"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2021,
+    "Nypris": 285000,
+    "Nåpris": 190000,
+    "Regnr": "FD94866"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Fiesta",
+    "Årsmodell": 2024,
+    "Nypris": 240000,
+    "Nåpris": 185000,
+    "Regnr": "FE74256"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2015,
+    "Nypris": 495000,
+    "Nåpris": 230000,
+    "Regnr": "GA43441"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2024,
+    "Nypris": 655000,
+    "Nåpris": 510000,
+    "Regnr": "AA70214"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2022,
+    "Nypris": 350000,
+    "Nåpris": 260000,
+    "Regnr": "AE42327"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2024,
+    "Nypris": 525000,
+    "Nåpris": 435000,
+    "Regnr": "AB43395"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2024,
+    "Nypris": 425000,
+    "Nåpris": 310000,
+    "Regnr": "DC29141"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2018,
+    "Nypris": 425000,
+    "Nåpris": 200000,
+    "Regnr": "EE77807"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Leaf",
+    "Årsmodell": 2020,
+    "Nypris": 330000,
+    "Nåpris": 180000,
+    "Regnr": "GF40354"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2020,
+    "Nypris": 515000,
+    "Nåpris": 325000,
+    "Regnr": "HB69486"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2019,
+    "Nypris": 460000,
+    "Nåpris": 255000,
+    "Regnr": "DF34228"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2018,
+    "Nypris": 375000,
+    "Nåpris": 195000,
+    "Regnr": "AA39144"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "3-serie",
+    "Årsmodell": 2024,
+    "Nypris": 585000,
+    "Nåpris": 435000,
+    "Regnr": "BE95615"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2021,
+    "Nypris": 490000,
+    "Nåpris": 355000,
+    "Regnr": "FA69504"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2018,
+    "Nypris": 435000,
+    "Nåpris": 225000,
+    "Regnr": "CB44496"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2012,
+    "Nypris": 310000,
+    "Nåpris": 100000,
+    "Regnr": "GF95895"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2020,
+    "Nypris": 300000,
+    "Nåpris": 170000,
+    "Regnr": "AD89911"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2021,
+    "Nypris": 600000,
+    "Nåpris": 355000,
+    "Regnr": "CD36690"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2025,
+    "Nypris": 790000,
+    "Nåpris": 715000,
+    "Regnr": "GE19733"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2019,
+    "Nypris": 325000,
+    "Nåpris": 195000,
+    "Regnr": "DC76649"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "3-serie",
+    "Årsmodell": 2022,
+    "Nypris": 605000,
+    "Nåpris": 450000,
+    "Regnr": "GH96109"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2022,
+    "Nypris": 540000,
+    "Nåpris": 415000,
+    "Regnr": "GF41499"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2015,
+    "Nypris": 195000,
+    "Nåpris": 75000,
+    "Regnr": "GH33529"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2019,
+    "Nypris": 425000,
+    "Nåpris": 220000,
+    "Regnr": "AG59860"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Focus",
+    "Årsmodell": 2022,
+    "Nypris": 330000,
+    "Nåpris": 230000,
+    "Regnr": "FE28276"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2017,
+    "Nypris": 860000,
+    "Nåpris": 380000,
+    "Regnr": "DE33584"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2022,
+    "Nypris": 805000,
+    "Nåpris": 615000,
+    "Regnr": "GB96485"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2022,
+    "Nypris": 475000,
+    "Nåpris": 305000,
+    "Regnr": "DE48356"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2025,
+    "Nypris": 300000,
+    "Nåpris": 245000,
+    "Regnr": "DA22492"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2024,
+    "Nypris": 760000,
+    "Nåpris": 595000,
+    "Regnr": "GG38177"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Octavia",
+    "Årsmodell": 2020,
+    "Nypris": 355000,
+    "Nåpris": 235000,
+    "Regnr": "EA23817"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "A4",
+    "Årsmodell": 2024,
+    "Nypris": 575000,
+    "Nåpris": 420000,
+    "Regnr": "AG61310"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2018,
+    "Nypris": 310000,
+    "Nåpris": 160000,
+    "Regnr": "BF98635"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2025,
+    "Nypris": 620000,
+    "Nåpris": 575000,
+    "Regnr": "GC37966"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2024,
+    "Nypris": 390000,
+    "Nåpris": 305000,
+    "Regnr": "BA62956"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2019,
+    "Nypris": 210000,
+    "Nåpris": 130000,
+    "Regnr": "DB33435"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2013,
+    "Nypris": 175000,
+    "Nåpris": 70000,
+    "Regnr": "HA45179"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2023,
+    "Nypris": 290000,
+    "Nåpris": 195000,
+    "Regnr": "BG56396"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2020,
+    "Nypris": 690000,
+    "Nåpris": 430000,
+    "Regnr": "GG59340"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2024,
+    "Nypris": 290000,
+    "Nåpris": 240000,
+    "Regnr": "BA12450"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2021,
+    "Nypris": 420000,
+    "Nåpris": 295000,
+    "Regnr": "DA71378"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Focus",
+    "Årsmodell": 2018,
+    "Nypris": 285000,
+    "Nåpris": 135000,
+    "Regnr": "CG59195"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2024,
+    "Nypris": 400000,
+    "Nåpris": 310000,
+    "Regnr": "HG85360"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2020,
+    "Nypris": 515000,
+    "Nåpris": 305000,
+    "Regnr": "BC11809"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2018,
+    "Nypris": 690000,
+    "Nåpris": 365000,
+    "Regnr": "HD84811"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2022,
+    "Nypris": 335000,
+    "Nåpris": 225000,
+    "Regnr": "GG25566"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2021,
+    "Nypris": 470000,
+    "Nåpris": 280000,
+    "Regnr": "FF76975"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2017,
+    "Nypris": 445000,
+    "Nåpris": 215000,
+    "Regnr": "HG59266"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2020,
+    "Nypris": 685000,
+    "Nåpris": 395000,
+    "Regnr": "HH77521"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Octavia",
+    "Årsmodell": 2022,
+    "Nypris": 310000,
+    "Nåpris": 195000,
+    "Regnr": "GF81207"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Qashqai",
+    "Årsmodell": 2025,
+    "Nypris": 435000,
+    "Nåpris": 340000,
+    "Regnr": "GC61825"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2023,
+    "Nypris": 190000,
+    "Nåpris": 140000,
+    "Regnr": "DA78844"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2021,
+    "Nypris": 485000,
+    "Nåpris": 315000,
+    "Regnr": "AB28815"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2013,
+    "Nypris": 535000,
+    "Nåpris": 210000,
+    "Regnr": "AD89550"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Fiesta",
+    "Årsmodell": 2015,
+    "Nypris": 225000,
+    "Nåpris": 100000,
+    "Regnr": "HH15925"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2020,
+    "Nypris": 480000,
+    "Nåpris": 280000,
+    "Regnr": "AC88113"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2020,
+    "Nypris": 490000,
+    "Nåpris": 315000,
+    "Regnr": "BE79318"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2025,
+    "Nypris": 535000,
+    "Nåpris": 500000,
+    "Regnr": "FF96270"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2016,
+    "Nypris": 735000,
+    "Nåpris": 300000,
+    "Regnr": "HB99374"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "A4",
+    "Årsmodell": 2022,
+    "Nypris": 590000,
+    "Nåpris": 430000,
+    "Regnr": "HB41026"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2025,
+    "Nypris": 530000,
+    "Nåpris": 470000,
+    "Regnr": "AD91093"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "X3",
+    "Årsmodell": 2023,
+    "Nypris": 655000,
+    "Nåpris": 475000,
+    "Regnr": "DG12066"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2020,
+    "Nypris": 670000,
+    "Nåpris": 380000,
+    "Regnr": "GE39602"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2023,
+    "Nypris": 530000,
+    "Nåpris": 430000,
+    "Regnr": "GH16233"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2021,
+    "Nypris": 520000,
+    "Nåpris": 365000,
+    "Regnr": "DG12186"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2022,
+    "Nypris": 270000,
+    "Nåpris": 175000,
+    "Regnr": "AD81828"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2023,
+    "Nypris": 335000,
+    "Nåpris": 245000,
+    "Regnr": "AD31514"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Fiesta",
+    "Årsmodell": 2021,
+    "Nypris": 210000,
+    "Nåpris": 130000,
+    "Regnr": "CG85577"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2024,
+    "Nypris": 545000,
+    "Nåpris": 460000,
+    "Regnr": "CH57946"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2025,
+    "Nypris": 185000,
+    "Nåpris": 170000,
+    "Regnr": "DC15857"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2024,
+    "Nypris": 255000,
+    "Nåpris": 220000,
+    "Regnr": "GD17142"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2024,
+    "Nypris": 780000,
+    "Nåpris": 585000,
+    "Regnr": "HE49170"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2019,
+    "Nypris": 430000,
+    "Nåpris": 235000,
+    "Regnr": "GC31195"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2022,
+    "Nypris": 770000,
+    "Nåpris": 530000,
+    "Regnr": "DA22844"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2021,
+    "Nypris": 680000,
+    "Nåpris": 410000,
+    "Regnr": "FE26855"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2017,
+    "Nypris": 455000,
+    "Nåpris": 215000,
+    "Regnr": "ED43179"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2024,
+    "Nypris": 485000,
+    "Nåpris": 380000,
+    "Regnr": "BC48079"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2023,
+    "Nypris": 395000,
+    "Nåpris": 275000,
+    "Regnr": "EE69996"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2023,
+    "Nypris": 345000,
+    "Nåpris": 230000,
+    "Regnr": "GC40992"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2023,
+    "Nypris": 465000,
+    "Nåpris": 380000,
+    "Regnr": "EE37637"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2012,
+    "Nypris": 545000,
+    "Nåpris": 190000,
+    "Regnr": "GF83966"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "Q5",
+    "Årsmodell": 2023,
+    "Nypris": 625000,
+    "Nåpris": 470000,
+    "Regnr": "CD75566"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2023,
+    "Nypris": 405000,
+    "Nåpris": 310000,
+    "Regnr": "BH50162"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2020,
+    "Nypris": 240000,
+    "Nåpris": 130000,
+    "Regnr": "BD12500"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2019,
+    "Nypris": 355000,
+    "Nåpris": 205000,
+    "Regnr": "HC60622"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2024,
+    "Nypris": 450000,
+    "Nåpris": 390000,
+    "Regnr": "HC79378"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2014,
+    "Nypris": 440000,
+    "Nåpris": 155000,
+    "Regnr": "CC10083"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2018,
+    "Nypris": 480000,
+    "Nåpris": 245000,
+    "Regnr": "BA71130"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2024,
+    "Nypris": 825000,
+    "Nåpris": 725000,
+    "Regnr": "FG77395"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "A4",
+    "Årsmodell": 2023,
+    "Nypris": 535000,
+    "Nåpris": 385000,
+    "Regnr": "FD35387"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Tucson",
+    "Årsmodell": 2022,
+    "Nypris": 485000,
+    "Nåpris": 335000,
+    "Regnr": "GC91543"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2021,
+    "Nypris": 550000,
+    "Nåpris": 355000,
+    "Regnr": "GC15188"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2021,
+    "Nypris": 715000,
+    "Nåpris": 475000,
+    "Regnr": "GH34469"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2019,
+    "Nypris": 455000,
+    "Nåpris": 275000,
+    "Regnr": "GG28854"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2021,
+    "Nypris": 365000,
+    "Nåpris": 250000,
+    "Regnr": "GH47916"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2018,
+    "Nypris": 500000,
+    "Nåpris": 285000,
+    "Regnr": "FG50697"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2015,
+    "Nypris": 425000,
+    "Nåpris": 195000,
+    "Regnr": "DG86489"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2017,
+    "Nypris": 540000,
+    "Nåpris": 260000,
+    "Regnr": "FH22650"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2021,
+    "Nypris": 530000,
+    "Nåpris": 330000,
+    "Regnr": "DA79627"
+  },
+  {
+    "Merke": "Nissan",
+    "Modell": "Leaf",
+    "Årsmodell": 2015,
+    "Nypris": 365000,
+    "Nåpris": 160000,
+    "Regnr": "FE88885"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2015,
+    "Nypris": 435000,
+    "Nåpris": 175000,
+    "Regnr": "FC58728"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2017,
+    "Nypris": 410000,
+    "Nåpris": 205000,
+    "Regnr": "CD31522"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2013,
+    "Nypris": 485000,
+    "Nåpris": 180000,
+    "Regnr": "CD87776"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "X3",
+    "Årsmodell": 2017,
+    "Nypris": 770000,
+    "Nåpris": 380000,
+    "Regnr": "FF24104"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2013,
+    "Nypris": 705000,
+    "Nåpris": 260000,
+    "Regnr": "DD79169"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2023,
+    "Nypris": 435000,
+    "Nåpris": 330000,
+    "Regnr": "DH19041"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Octavia",
+    "Årsmodell": 2022,
+    "Nypris": 375000,
+    "Nåpris": 245000,
+    "Regnr": "HE75160"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2025,
+    "Nypris": 560000,
+    "Nåpris": 530000,
+    "Regnr": "CG81299"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2016,
+    "Nypris": 825000,
+    "Nåpris": 380000,
+    "Regnr": "BE62921"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2020,
+    "Nypris": 210000,
+    "Nåpris": 130000,
+    "Regnr": "DA15929"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2023,
+    "Nypris": 230000,
+    "Nåpris": 160000,
+    "Regnr": "EF68603"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Tucson",
+    "Årsmodell": 2020,
+    "Nypris": 425000,
+    "Nåpris": 275000,
+    "Regnr": "AH34251"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2023,
+    "Nypris": 520000,
+    "Nåpris": 360000,
+    "Regnr": "HB76209"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2018,
+    "Nypris": 420000,
+    "Nåpris": 240000,
+    "Regnr": "CH88427"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2016,
+    "Nypris": 530000,
+    "Nåpris": 260000,
+    "Regnr": "DH88749"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2022,
+    "Nypris": 855000,
+    "Nåpris": 635000,
+    "Regnr": "HB60953"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2022,
+    "Nypris": 500000,
+    "Nåpris": 375000,
+    "Regnr": "FG88110"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2022,
+    "Nypris": 570000,
+    "Nåpris": 395000,
+    "Regnr": "FA67132"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2022,
+    "Nypris": 730000,
+    "Nåpris": 475000,
+    "Regnr": "EF61026"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2024,
+    "Nypris": 230000,
+    "Nåpris": 200000,
+    "Regnr": "GH14915"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2014,
+    "Nypris": 205000,
+    "Nåpris": 75000,
+    "Regnr": "BG53767"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2019,
+    "Nypris": 955000,
+    "Nåpris": 515000,
+    "Regnr": "BA47385"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2019,
+    "Nypris": 440000,
+    "Nåpris": 270000,
+    "Regnr": "FC62725"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "3-serie",
+    "Årsmodell": 2024,
+    "Nypris": 495000,
+    "Nåpris": 380000,
+    "Regnr": "DC68334"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2022,
+    "Nypris": 515000,
+    "Nåpris": 400000,
+    "Regnr": "HE57748"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2012,
+    "Nypris": 275000,
+    "Nåpris": 100000,
+    "Regnr": "HC11612"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2022,
+    "Nypris": 560000,
+    "Nåpris": 405000,
+    "Regnr": "HG16263"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2023,
+    "Nypris": 560000,
+    "Nåpris": 420000,
+    "Regnr": "EH35179"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2015,
+    "Nypris": 660000,
+    "Nåpris": 250000,
+    "Regnr": "AF86582"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2025,
+    "Nypris": 725000,
+    "Nåpris": 570000,
+    "Regnr": "CC86913"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2017,
+    "Nypris": 530000,
+    "Nåpris": 285000,
+    "Regnr": "FD84872"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2024,
+    "Nypris": 550000,
+    "Nåpris": 425000,
+    "Regnr": "BE81471"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2022,
+    "Nypris": 455000,
+    "Nåpris": 295000,
+    "Regnr": "DA19767"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2023,
+    "Nypris": 425000,
+    "Nåpris": 340000,
+    "Regnr": "GH40198"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2012,
+    "Nypris": 195000,
+    "Nåpris": 75000,
+    "Regnr": "CD22645"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model Y",
+    "Årsmodell": 2016,
+    "Nypris": 610000,
+    "Nåpris": 300000,
+    "Regnr": "CF27423"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2022,
+    "Nypris": 755000,
+    "Nåpris": 515000,
+    "Regnr": "DF75831"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "3-serie",
+    "Årsmodell": 2018,
+    "Nypris": 515000,
+    "Nåpris": 270000,
+    "Regnr": "FD79049"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2018,
+    "Nypris": 665000,
+    "Nåpris": 380000,
+    "Regnr": "HE65880"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2021,
+    "Nypris": 635000,
+    "Nåpris": 420000,
+    "Regnr": "GC87869"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2015,
+    "Nypris": 735000,
+    "Nåpris": 310000,
+    "Regnr": "FC55670"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2022,
+    "Nypris": 265000,
+    "Nåpris": 175000,
+    "Regnr": "GH70525"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2020,
+    "Nypris": 660000,
+    "Nåpris": 390000,
+    "Regnr": "DG98107"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Tucson",
+    "Årsmodell": 2019,
+    "Nypris": 470000,
+    "Nåpris": 280000,
+    "Regnr": "EF90788"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2023,
+    "Nypris": 320000,
+    "Nåpris": 265000,
+    "Regnr": "BB27412"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2021,
+    "Nypris": 575000,
+    "Nåpris": 400000,
+    "Regnr": "BH74662"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2023,
+    "Nypris": 470000,
+    "Nåpris": 360000,
+    "Regnr": "AD18571"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2019,
+    "Nypris": 590000,
+    "Nåpris": 365000,
+    "Regnr": "DA88719"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2012,
+    "Nypris": 425000,
+    "Nåpris": 150000,
+    "Regnr": "EA62983"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2019,
+    "Nypris": 565000,
+    "Nåpris": 325000,
+    "Regnr": "HB11213"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2023,
+    "Nypris": 515000,
+    "Nåpris": 350000,
+    "Regnr": "BG89934"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2025,
+    "Nypris": 505000,
+    "Nåpris": 405000,
+    "Regnr": "CF49576"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2023,
+    "Nypris": 445000,
+    "Nåpris": 365000,
+    "Regnr": "CA58472"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2017,
+    "Nypris": 335000,
+    "Nåpris": 175000,
+    "Regnr": "GE29183"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Focus",
+    "Årsmodell": 2022,
+    "Nypris": 290000,
+    "Nåpris": 205000,
+    "Regnr": "HB45511"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2025,
+    "Nypris": 650000,
+    "Nåpris": 600000,
+    "Regnr": "EH83035"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Polo",
+    "Årsmodell": 2013,
+    "Nypris": 245000,
+    "Nåpris": 85000,
+    "Regnr": "BD61693"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2024,
+    "Nypris": 440000,
+    "Nåpris": 365000,
+    "Regnr": "FC50488"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2013,
+    "Nypris": 490000,
+    "Nåpris": 180000,
+    "Regnr": "DC24924"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Kona",
+    "Årsmodell": 2023,
+    "Nypris": 410000,
+    "Nåpris": 325000,
+    "Regnr": "AF87914"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2019,
+    "Nypris": 480000,
+    "Nåpris": 295000,
+    "Regnr": "AA62129"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2023,
+    "Nypris": 490000,
+    "Nåpris": 360000,
+    "Regnr": "EF32398"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2017,
+    "Nypris": 510000,
+    "Nåpris": 255000,
+    "Regnr": "AB29006"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Octavia",
+    "Årsmodell": 2022,
+    "Nypris": 350000,
+    "Nåpris": 260000,
+    "Regnr": "BE10171"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2022,
+    "Nypris": 460000,
+    "Nåpris": 295000,
+    "Regnr": "AD33788"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Yaris",
+    "Årsmodell": 2023,
+    "Nypris": 300000,
+    "Nåpris": 250000,
+    "Regnr": "GA50445"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2023,
+    "Nypris": 470000,
+    "Nåpris": 385000,
+    "Regnr": "HC19195"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2024,
+    "Nypris": 500000,
+    "Nåpris": 440000,
+    "Regnr": "DG34650"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2025,
+    "Nypris": 185000,
+    "Nåpris": 155000,
+    "Regnr": "DE22051"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2018,
+    "Nypris": 410000,
+    "Nåpris": 205000,
+    "Regnr": "FE75480"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2020,
+    "Nypris": 275000,
+    "Nåpris": 165000,
+    "Regnr": "HC49267"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Kuga",
+    "Årsmodell": 2014,
+    "Nypris": 420000,
+    "Nåpris": 150000,
+    "Regnr": "HF35159"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2023,
+    "Nypris": 485000,
+    "Nåpris": 375000,
+    "Regnr": "FH44585"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2015,
+    "Nypris": 665000,
+    "Nåpris": 280000,
+    "Regnr": "FA95987"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2021,
+    "Nypris": 685000,
+    "Nåpris": 475000,
+    "Regnr": "FG36011"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "Q5",
+    "Årsmodell": 2022,
+    "Nypris": 715000,
+    "Nåpris": 465000,
+    "Regnr": "BA90877"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2021,
+    "Nypris": 480000,
+    "Nåpris": 330000,
+    "Regnr": "AG69713"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2019,
+    "Nypris": 445000,
+    "Nåpris": 235000,
+    "Regnr": "HH33773"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "i4",
+    "Årsmodell": 2015,
+    "Nypris": 675000,
+    "Nåpris": 255000,
+    "Regnr": "AA54224"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2020,
+    "Nypris": 200000,
+    "Nåpris": 130000,
+    "Regnr": "AF31634"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2019,
+    "Nypris": 550000,
+    "Nåpris": 295000,
+    "Regnr": "AB32729"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2023,
+    "Nypris": 490000,
+    "Nåpris": 330000,
+    "Regnr": "HF11186"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2015,
+    "Nypris": 340000,
+    "Nåpris": 135000,
+    "Regnr": "EC73867"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2019,
+    "Nypris": 740000,
+    "Nåpris": 460000,
+    "Regnr": "DD77806"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "A4",
+    "Årsmodell": 2016,
+    "Nypris": 595000,
+    "Nåpris": 270000,
+    "Regnr": "HF13963"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2024,
+    "Nypris": 355000,
+    "Nåpris": 285000,
+    "Regnr": "CH58961"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2025,
+    "Nypris": 715000,
+    "Nåpris": 655000,
+    "Regnr": "GH75020"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "i30",
+    "Årsmodell": 2022,
+    "Nypris": 335000,
+    "Nåpris": 215000,
+    "Regnr": "DA84025"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2018,
+    "Nypris": 520000,
+    "Nåpris": 285000,
+    "Regnr": "HD38552"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Superb",
+    "Årsmodell": 2025,
+    "Nypris": 455000,
+    "Nåpris": 365000,
+    "Regnr": "HD54589"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Fiesta",
+    "Årsmodell": 2019,
+    "Nypris": 250000,
+    "Nåpris": 155000,
+    "Regnr": "EG66153"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "Q5",
+    "Årsmodell": 2019,
+    "Nypris": 750000,
+    "Nåpris": 405000,
+    "Regnr": "HA56614"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model X",
+    "Årsmodell": 2024,
+    "Nypris": 645000,
+    "Nåpris": 505000,
+    "Regnr": "ED54661"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2021,
+    "Nypris": 345000,
+    "Nåpris": 240000,
+    "Regnr": "EF83305"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2025,
+    "Nypris": 355000,
+    "Nåpris": 335000,
+    "Regnr": "BA52356"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2023,
+    "Nypris": 470000,
+    "Nåpris": 380000,
+    "Regnr": "CC98253"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "V60",
+    "Årsmodell": 2015,
+    "Nypris": 590000,
+    "Nåpris": 260000,
+    "Regnr": "GA69654"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model S",
+    "Årsmodell": 2015,
+    "Nypris": 835000,
+    "Nåpris": 370000,
+    "Regnr": "EG16489"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2022,
+    "Nypris": 350000,
+    "Nåpris": 230000,
+    "Regnr": "AH36059"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2024,
+    "Nypris": 215000,
+    "Nåpris": 185000,
+    "Regnr": "DA61275"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2024,
+    "Nypris": 490000,
+    "Nåpris": 395000,
+    "Regnr": "GA45844"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Passat",
+    "Årsmodell": 2015,
+    "Nypris": 490000,
+    "Nåpris": 205000,
+    "Regnr": "BH54909"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC90",
+    "Årsmodell": 2019,
+    "Nypris": 790000,
+    "Nåpris": 480000,
+    "Regnr": "FA44356"
+  },
+  {
+    "Merke": "Skoda",
+    "Modell": "Enyaq",
+    "Årsmodell": 2023,
+    "Nypris": 620000,
+    "Nåpris": 440000,
+    "Regnr": "EB13872"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC60",
+    "Årsmodell": 2023,
+    "Nypris": 700000,
+    "Nåpris": 505000,
+    "Regnr": "DB63949"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2018,
+    "Nypris": 450000,
+    "Nåpris": 260000,
+    "Regnr": "GH55805"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2017,
+    "Nypris": 435000,
+    "Nåpris": 210000,
+    "Regnr": "AE98804"
+  },
+  {
+    "Merke": "BMW",
+    "Modell": "X3",
+    "Årsmodell": 2024,
+    "Nypris": 630000,
+    "Nåpris": 485000,
+    "Regnr": "HB23303"
+  },
+  {
+    "Merke": "Ford",
+    "Modell": "Focus",
+    "Årsmodell": 2020,
+    "Nypris": 320000,
+    "Nåpris": 215000,
+    "Regnr": "BA45124"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Aygo",
+    "Årsmodell": 2022,
+    "Nypris": 200000,
+    "Nåpris": 155000,
+    "Regnr": "FF61433"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2019,
+    "Nypris": 400000,
+    "Nåpris": 210000,
+    "Regnr": "AB77889"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2012,
+    "Nypris": 505000,
+    "Nåpris": 175000,
+    "Regnr": "EG93769"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2024,
+    "Nypris": 480000,
+    "Nåpris": 430000,
+    "Regnr": "EF12497"
+  },
+  {
+    "Merke": "Tesla",
+    "Modell": "Model 3",
+    "Årsmodell": 2022,
+    "Nypris": 510000,
+    "Nåpris": 320000,
+    "Regnr": "DD38218"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "RAV4",
+    "Årsmodell": 2019,
+    "Nypris": 525000,
+    "Nåpris": 310000,
+    "Regnr": "EB66257"
+  },
+  {
+    "Merke": "Audi",
+    "Modell": "e-tron",
+    "Årsmodell": 2015,
+    "Nypris": 870000,
+    "Nåpris": 400000,
+    "Regnr": "CC93478"
+  },
+  {
+    "Merke": "Toyota",
+    "Modell": "Corolla",
+    "Årsmodell": 2023,
+    "Nypris": 395000,
+    "Nåpris": 320000,
+    "Regnr": "GE14528"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Tiguan",
+    "Årsmodell": 2025,
+    "Nypris": 520000,
+    "Nåpris": 420000,
+    "Regnr": "DF77790"
+  },
+  {
+    "Merke": "Volvo",
+    "Modell": "XC40",
+    "Årsmodell": 2021,
+    "Nypris": 490000,
+    "Nåpris": 295000,
+    "Regnr": "GF82170"
+  },
+  {
+    "Merke": "Hyundai",
+    "Modell": "Tucson",
+    "Årsmodell": 2022,
+    "Nypris": 460000,
+    "Nåpris": 315000,
+    "Regnr": "BE97569"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "id4",
+    "Årsmodell": 2023,
+    "Nypris": 560000,
+    "Nåpris": 400000,
+    "Regnr": "HG50753"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2019,
+    "Nypris": 340000,
+    "Nåpris": 175000,
+    "Regnr": "FF70359"
+  },
+  {
+    "Merke": "VW",
+    "Modell": "Golf",
+    "Årsmodell": 2015,
+    "Nypris": 295000,
+    "Nåpris": 130000,
+    "Regnr": "EA41922"
+  }
+]

@@ -103,18 +103,3 @@ resulat_df = (
 )
 #print(resulat_df)
 
-# a) Finn de tre dyreste bilene
-# b) Ta ut et dataframe med biler av merke "Hyundai"
-# c) Finnes det noen Jaguar-er i bildatabasen? Få ut True/False
-# d) Finn alle biler som er eldre enn 10 år med nåpris under 80.000
-# e) Finn alle biler som er nyere enn 2020 og koster under 300.000, 
-# eller er nyere enn 2024 og koster under 350.00
-# f) Lag en  liste over alle Volvo nyere enn 2022 sorter etter Nåpris
-# g) Lag en kolonne "Verdifall" på hver bil som viser prosentvis verdifall for bilen
-# g) Lag en kode som skriver ut teksten:
-# "Vi har <antall merker> ulike merker, <antall unike modeller>, 
-# gjennomsnittsprisen på bilene er: <gjenpmsnittpris> kroner. 
-# Vi har <antall biler over 500.000> som koster over 500.000. 
-# <antall biler nyere enn 2020> er nyere enn 2020, og gjenneomsnittsprisenn for 
-# disse er <gjensomsnittspris for bilene nyere enn 2020>.  
-# h) Group by
