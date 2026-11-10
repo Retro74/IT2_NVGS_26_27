@@ -21,7 +21,7 @@ biler_df["VerdifallProsent"] = round(biler_df["Verdifall"]*100/biler_df["Nypris"
 print(biler_df[biler_df["VerdifallProsent"]==biler_df["VerdifallProsent"].max()])
 #F5: Lag en kolonne som heter ÅrligVerdifallProsent
 
-biler_df["ÅrligVerdifallProsent"] = round(((biler_df["Nåpris"]/biler_df["Nypris"])**(1/biler_df["Alder"])-1)*(-100),3)
+biler_df["ÅrligVerdifallProsent"] = round((((biler_df["Nåpris"]/biler_df["Nypris"])**(1/biler_df["Alder"]))-1)*(-100),3)
 #print(biler_df)
 
 #F6: Finn bilen med størst årlig prosentvis verdifall. 
