@@ -64,6 +64,13 @@ biler_df = pd.read_json(fullFilePathName)
 #nyTesla_df = biler_df.query("Merke == 'Tesla' and Årsmodell > 2022")
 #print(nyTesla_df)
 
+### Variabler i query()
+#brukervalgt_merke = input("Hvilket merke vil du se etter? ")
+#brukervalgtMerke_df = biler_df.query("Merke == @brukervalgt_merke")
+#print(brukervalgtMerke_df)
+#merker = ["Audi", "Tesla", "Volvo"]
+#utvalg_df = biler_df.query("Merke in @merker")
+
 ## Sortering
 #bilder_sort_pris = biler_df.sort_values("Nåpris", ascending=False)
 #print(bilder_sort_pris.head(10))
@@ -101,5 +108,37 @@ resulat_df = (
             .mean()
             .sort_values(ascending=False)
 )
+
+
 #print(resulat_df)
 
+##Sette sammen to datasett
+
+# Bilmerkenes opprinnelsesland
+kolonner_land = ["Merke", "Land"]
+data_land = [
+    ["Toyota", "Japan"],
+    ["Volkswagen", "Tyskland"],
+    ["Tesla", "USA"],
+    ["BMW", "Tyskland"]
+]
+# Lage en DataFrame
+land_df = pd.DataFrame(data_land, columns=kolonner_land)
+
+print("=== Biler ===")
+print(biler_df)
+
+print("\n=== Bilmerker ===")
+print(land_df)
+
+# Merge på Merke
+resultat_df = pd.merge(
+    biler_df,
+    land_df,
+    on="Merke",
+    how="left"
+)
+
+print("\n=== Biler med opprinnelsesland ===")
+print(resultat_df)
+#print(resultat_df.query("Land.isna()"))

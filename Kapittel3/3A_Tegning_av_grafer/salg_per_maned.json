@@ -1,0 +1,50 @@
+[
+  {
+    "Måned": "Jan",
+    "Salg": 120
+  },
+  {
+    "Måned": "Feb",
+    "Salg": 135
+  },
+  {
+    "Måned": "Mar",
+    "Salg": 140
+  },
+  {
+    "Måned": "Apr",
+    "Salg": 160
+  },
+  {
+    "Måned": "Mai",
+    "Salg": 180
+  },
+  {
+    "Måned": "Jun",
+    "Salg": 210
+  },
+  {
+    "Måned": "Jul",
+    "Salg": 230
+  },
+  {
+    "Måned": "Aug",
+    "Salg": 220
+  },
+  {
+    "Måned": "Sep",
+    "Salg": 200
+  },
+  {
+    "Måned": "Okt",
+    "Salg": 190
+  },
+  {
+    "Måned": "Nov",
+    "Salg": 170
+  },
+  {
+    "Måned": "Des",
+    "Salg": 150
+  }
+]
