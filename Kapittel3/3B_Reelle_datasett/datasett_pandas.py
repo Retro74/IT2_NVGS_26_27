@@ -114,31 +114,23 @@ resulat_df = (
 
 ##Sette sammen to datasett
 
-# Bilmerkenes opprinnelsesland
-kolonner_land = ["Merke", "Land"]
-data_land = [
-    ["Toyota", "Japan"],
-    ["Volkswagen", "Tyskland"],
-    ["Tesla", "USA"],
-    ["BMW", "Tyskland"]
-]
-# Lage en DataFrame
-land_df = pd.DataFrame(data_land, columns=kolonner_land)
-
-print("=== Biler ===")
 print(biler_df)
 
-print("\n=== Bilmerker ===")
-print(land_df)
+kolonner = ["Merke", "Land"]
+merke_land_data = [["Toyota", "Japan"],
+                   ["VW", "Tyskland"],
+                   ["Tesla", "USA"],
+                   ["Volvo", "Sverige"],
+                   ["Hyundai", "Japan"],
+                   ["Kia", "Sør-Korea"],
+                   ["Troll", "Norge"],
+                   ["BMW", "Tyskland"],
+                   ["Audi","Tyskland"],
+                   ["Skoda", "Tsjekkia"],
+                   ["Ford", "USA"],
+                   ["Nissan", "Japan"]]
 
-# Merge på Merke
-resultat_df = pd.merge(
-    biler_df,
-    land_df,
-    on="Merke",
-    how="left"
-)
-
-print("\n=== Biler med opprinnelsesland ===")
-print(resultat_df)
-#print(resultat_df.query("Land.isna()"))
+merke_land_df = pd.DataFrame(merke_land_data, columns=kolonner)
+#print(merke_land_df)
+biler_land_df = pd.merge(biler_df, merke_land_df, how="left", on="Merke")
+print(biler_land_df.query("Land.isna()"))
