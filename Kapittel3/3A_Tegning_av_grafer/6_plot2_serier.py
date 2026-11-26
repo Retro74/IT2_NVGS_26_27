@@ -9,7 +9,7 @@ plt.plot(dager, temeraturer_uke45, color="red",  label="Uke 45", linewidth=2, ma
 
 plt.title("Temperaturer uke 44 og 45")
 plt.xlabel("Ukedager")
-plt.ylabel("Temperatturer")
+plt.ylabel("Temperaturer")
 plt.legend()
 plt.grid()
 plt.show()
